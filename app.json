@@ -54,7 +54,7 @@
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
       "required": true,
-      "value": "true"
+      "value": "fales"
     },
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
@@ -69,12 +69,12 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝙽𝙾𝚅𝙰-𝚇𝙼𝙳"
+      "value": "AndalaTheMr"
     },
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255767862457"
+      "value": "254793753327"
     },
     "BOT_NAME": {
       "description": "Type here the bot name.",
@@ -99,7 +99,7 @@
     "MENTION_REPLY": {
       "description": "make it true if want mention reply if someone menetion you.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
